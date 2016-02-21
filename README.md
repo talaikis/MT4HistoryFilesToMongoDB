@@ -7,3 +7,5 @@ Takes around 8 hours on Pentium to export 0.5 Gb of files. Updates are delayed b
 TO DO: force MT4 to somehow update its dta.
 
 First appeared: http://www.talaikis.com/history-hst-files-to-mongodb-using-python/
+
+First appeared: http://www.talaikis.com/history-hst-files-to-mongodb-using-python/
